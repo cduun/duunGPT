@@ -23,7 +23,12 @@ const logger = log4js.getLogger('main');
 const chat: Chat = new Chat();
 
 app.get('/', async (_: Request, res: Response) => {
-  res.send(await chat.sendMessage('Hello,'));
+  try {
+    chat.postToChatGPT('hey');
+  } catch (e) {
+    logger.error(e);
+  }
+  res.send(await chat.test('Hello,'));
 });
 
 const port = process.env.PORT || 3000;
