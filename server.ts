@@ -2,6 +2,9 @@ import { Application, Request, Response } from 'express';
 import express = require('express');
 import * as log4js from 'log4js';
 import { Chat } from './src/Chat';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const app: Application = express();
 

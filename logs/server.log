@@ -3,3 +3,16 @@
 [2023-03-03T21:29:44.215] [INFO] main - Server listening on port 3000
 [2023-03-03T21:31:19.275] [INFO] main - Server listening on port 3000
 [2023-03-03T21:35:34.412] [INFO] main - Server listening on port 3000
+[2023-03-03T21:37:41.039] [INFO] main - Server listening on port 3000
+[2023-03-03T21:40:38.501] [INFO] main - Server listening on port 3000
+[2023-03-03T21:40:42.252] [INFO] chat - received Hello,
+[2023-03-03T21:40:46.113] [INFO] chat - received Hello,
+[2023-03-03T21:41:35.681] [INFO] main - Server listening on port 3000
+[2023-03-03T21:41:36.722] [INFO] chat - received Hello,
+[2023-03-03T21:41:36.722] [INFO] chat - received undefined
+[2023-03-03T21:42:24.287] [INFO] main - Server listening on port 3000
+[2023-03-03T21:42:25.859] [INFO] chat - received Hello,
+[2023-03-03T21:42:25.859] [INFO] chat - received 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
+[2023-03-03T21:43:16.789] [INFO] main - Server listening on port 1337
+[2023-03-03T21:43:21.966] [INFO] chat - received Hello,
+[2023-03-03T21:43:21.966] [INFO] chat - received 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
