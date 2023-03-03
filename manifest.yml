@@ -1,0 +1,5 @@
+---
+applications:
+  - name: duun-gpt
+    memory: 256M
+    host: duun-gpt
