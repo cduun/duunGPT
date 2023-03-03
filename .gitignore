@@ -56,3 +56,7 @@ localdev-config.json
 
 # .env
 .env
+
+#logs
+
+logs
